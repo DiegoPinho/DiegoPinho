@@ -6,7 +6,7 @@
 
 ## Seja muito bem-vindo(a)!
 
-Olá! Eu sou o seu próximo professor de programação favorito!
+Olá! Eu sou o Diego, seu próximo professor de programação favorito!
 
 Atualmente sou professor de programação na [Driven Education](https://www.driven.com.br/) e já trabalhei em lugares incríveis como a [Escola Móbile Integral](http://www.escolamobile.com.br/), o [iMasters](https://imasters.com.br/) e a [Touch Health](https://touchhealth.com.br/). Além destes trabalhos, faço de tudo um pouco dentro da minha escola virtual de programação, a [Code Prestige](https://www.codeprestige.com.br/). E como amo escrever, tenho mais de 100 artigos publicados no Portal iMasters e três livros publicados pela Casa do Código.
 
