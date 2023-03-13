@@ -1,5 +1,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegopinho/)](https://www.linkedin.com/in/diegopinho/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/profdiegopinho/)](https://www.instagram.com/profdiegopinho/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/profdiegopinho/)](https://www.instagram.com/profdidipinho/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/DiegoPinho?style=social)](https://twitter.com/DiegoPinho)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC-7TVZ9yNWzWA4iRW5umbjw?style=social)](https://www.youtube.com/codeprestige)
 
