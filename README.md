@@ -8,11 +8,13 @@
 
 Olá! Eu sou o Prof. Diego (Didi), seu próximo professor de programação favorito!
 
-Atualmente sou professor de programação na [Driven Education](https://www.driven.com.br/) e já trabalhei em lugares incríveis como a [Escola Móbile Integral](http://www.escolamobile.com.br/), o [iMasters](https://imasters.com.br/) e a [Touch Health](https://touchhealth.com.br/). Além destes trabalhos, faço de tudo um pouco dentro da minha escola virtual de programação, a [Code Prestige](https://www.codeprestige.com.br/). E como amo escrever, tenho mais de 100 artigos publicados no Portal iMasters e três livros publicados pela Casa do Código (e mais uma pela Editora Viena).
+Atualmente sou professor de programação na [Driven Education](https://www.driven.com.br/) e já trabalhei em lugares incríveis como a [Escola Móbile Integral](http://www.escolamobile.com.br/), o [iMasters](https://imasters.com.br/) e a [Touch Health](https://touchhealth.com.br/). Além destes trabalhos, faço de tudo um pouco dentro da minha escola virtual de programação, a [Code Prestige](https://www.codeprestige.com.br/). Como gosto muito de escrever, tenho mais de 100 artigos publicados no Portal iMasters e três livros publicados pela Casa do Código (e mais uma pela Editora Viena).
+
+Como amo estudar e estar sempre aprendendo, tenho algumas formações acadêmicas bem legais! Tenho bacharelado em Ciência da Computação pela [PUC-SP](https://www.pucsp.br/home), MBA em Gestão de Projetos de Tecnologia pela [FIAP](https://www.fiap.com.br/), licenciatura em Matemática pela [FIAR](http://www.fiar.com.br/), especialização em Desenvolvimento Web Full Stack pela [PUC Minas](https://www.pucminas.br/main/Paginas/default.aspx) e recentemente iniciei uma nova especialização de Arquitetura e Desenvolvimento Java novamente na FIAP.
 
 Minha missão é unir a tecnologia e a educação por um futuro melhor para todos. ❤️
 
-#web #fullstack #javascript #node #react #java
+#web #fullstack #javascript #node #react #java #front-end #back-end
 
 ### 📚 Meus livros
 - [ECMAScript 6 - Entre de Cabeça no Futuro do JavaScript](https://www.entendendoes6.com.br/)
