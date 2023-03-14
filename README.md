@@ -28,6 +28,6 @@ Minha missão é unir a tecnologia e a educação por um futuro melhor para todo
 
 <br />
 
-Para mais informações, [visite o meu site!](https://diegopinho.com.br).
+Para mais informações, [visite o meu site](https://diegopinho.com.br)!
 
 ⌨️
