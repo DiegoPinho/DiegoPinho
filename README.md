@@ -6,13 +6,16 @@
 
 ## Seja muito bem-vindo(a)!
 
-Olá! Eu sou o Prof. Diego (Didi), seu próximo professor de programação favorito!
+Oi! Eu sou o Prof. Diego (ou Didi, como muitos me chamam) e espero ser seu próximo professor favorito de programação!
 
-Atualmente sou professor de programação na [Driven Education](https://www.driven.com.br/) e já trabalhei em lugares incríveis como a [Escola Móbile Integral](http://www.escolamobile.com.br/), o [iMasters](https://imasters.com.br/) e a [Touch Health](https://touchhealth.com.br/). Além destes trabalhos, faço de tudo um pouco dentro da minha escola virtual de programação, a [Code Prestige](https://www.codeprestige.com.br/). Como gosto muito de escrever, tenho mais de 100 artigos publicados no Portal iMasters e três livros publicados pela Casa do Código (e mais uma pela Editora Viena).
+Estou há mais de 10 anos nessa jornada de ensinar tecnologia, passando por lugares como Driven Education, Escola Móbile Integral, iMasters, Touch Health, entre muitos outros. Ao longo do caminho, tive a alegria de conhecer muita gente incrível e impactar positivamente a vida de muitas pessoas. Também adoro escrever e já publiquei mais de 100 artigos no iMasters, além de colaborar com vários outros sites. E sim, também sou autor de livros! Tenho três lançados pela Editora Casa do Código e um pela Editora Viena!
 
-Como amo estudar e estar sempre aprendendo, tenho algumas formações acadêmicas bem legais! Tenho bacharelado em Ciência da Computação pela [PUC-SP](https://www.pucsp.br/home), MBA em Gestão de Projetos de Tecnologia pela [FIAP](https://www.fiap.com.br/), licenciatura em Matemática pela [FIAR](http://www.fiar.com.br/), especialização em Desenvolvimento Web Full Stack pela [PUC Minas](https://www.pucminas.br/main/Paginas/default.aspx) e recentemente iniciei uma nova especialização de Arquitetura e Desenvolvimento Java novamente na FIAP.
+Como gosto muito de aprender, estudo diariamente e conquistei algumas formações acadêmicas: sou bacharel em Ciência da Computação pela PUC-SP, tenho um MBA em Gestão de Projetos de Tecnologia pela FIAP, uma licenciatura em Matemática pela FIAR e uma especialização em Desenvolvimento Web Full Stack pela PUC Minas. E já estou em busca da próxima!
 
-Minha missão é unir a tecnologia e a educação por um futuro melhor para todos. ❤️
+Minha missão é unir educação e tecnologia para construir um futuro melhor para todo mundo. ❤️
+
+Quer saber mais sobre o meu trabalho?<br />
+[linktr.ee/DiegoMPinho](https://linktr.ee/DiegoMPinho)
 
 ### 📚 Meus livros
 - [ECMAScript 6 - Entre de Cabeça no Futuro do JavaScript](https://www.entendendoes6.com.br/)
