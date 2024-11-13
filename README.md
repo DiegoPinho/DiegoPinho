@@ -6,16 +6,15 @@
 
 ## Seja muito bem-vindo(a)!
 
-Oi! Eu sou o Prof. Diego (ou Didi, como muitos me chamam) e espero ser seu próximo professor favorito de programação!
+Olá! Eu sou o Prof. Diego (ou Didi) e espero ser seu próximo professor de programação!
 
-Estou há mais de 10 anos nessa jornada de ensinar tecnologia, passando por lugares como Driven Education, Escola Móbile Integral, iMasters, Touch Health, entre muitos outros. Ao longo do caminho, tive a alegria de conhecer muita gente incrível e impactar positivamente a vida de muitas pessoas. Também adoro escrever e já publiquei mais de 100 artigos no iMasters, além de colaborar com vários outros sites. E sim, também sou autor de livros! Tenho três lançados pela Editora Casa do Código e um pela Editora Viena!
+Estou há mais de 10 anos nessa jornada de ensinar tecnologia, e já passei por lugares como: Driven Education, Escola Móbile Integral, Descomplica, SOMAS, iMasters, Touch Health, somente para citar alguns deles. Ao longo desta tragetória, desenvolvi muito software e impactei positivamente a vida de muitas pessoas ensinando programação. 
 
-Como gosto muito de aprender, estudo diariamente e conquistei algumas formações acadêmicas: sou bacharel em Ciência da Computação pela PUC-SP, tenho um MBA em Gestão de Projetos de Tecnologia pela FIAP, uma licenciatura em Matemática pela FIAR e uma especialização em Desenvolvimento Web Full Stack pela PUC Minas. E já estou em busca da próxima!
+Adoro escrever e já publiquei centenas de artigos, sendo 100 deles somente no portal iMasters. Além disso, também sou autor de livros! Tenho três livros pela Editora Casa do Código e um pela Editora Viena!
 
-Minha missão é unir educação e tecnologia para construir um futuro melhor para todo mundo. ❤️
+Como gosto muito de aprender, estudo diariamente e conquistei algumas formações acadêmicas: bacharelado em Ciência da Computação pela PUC-SP, MBA em Gestão de Projetos de Tecnologia pela FIAP, licenciatura em Matemática pela FIAR e uma especialização em Desenvolvimento Web Full Stack pela PUC Minas. E já estou em busca da próxima!
 
-Quer saber mais sobre o meu trabalho?<br />
-[linktr.ee/DiegoMPinho](https://linktr.ee/DiegoMPinho)
+Minha missão é unir educação e tecnologia para construir um futuro melhor para todos. ❤️
 
 ### 📚 Meus livros
 - [ECMAScript 6 - Entre de Cabeça no Futuro do JavaScript](https://www.entendendoes6.com.br/)
@@ -25,7 +24,6 @@ Quer saber mais sobre o meu trabalho?<br />
 
 ### 🧠 Meus cursos
 - [Cursos na Udemy](https://www.udemy.com/user/diegomartinsdepinho/)
-- [Code Prestige](https://www.codeprestige.com.br/)
 
 ### 💻 Principais tecnologias
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
