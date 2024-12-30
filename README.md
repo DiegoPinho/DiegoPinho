@@ -23,6 +23,7 @@ Minha missão é unir educação e tecnologia para construir um futuro melhor pa
 - [O básico da modelagem 3D com o Blender](https://www.lojaviena.com.br/editoraviena/produtos-detalhes/0FOOQLPJ/Blender.html)
 
 ### 🧠 Meus cursos
+- [Dominando operações assíncronas no JavaScript](https://www.udemy.com/course/javascript-assincrono/?referralCode=B2BB90B38ACEF226A503)
 - [Prisma ORM - O ORM do Desenvolvedor JavaScript Moderno](https://www.udemy.com/course/prisma-orm/?referralCode=0FCA610840A8953B78AB)
 - [Entendendo o ES7 e ES8](https://www.udemy.com/course/entendendo-es7-e-es8/?referralCode=D22020A6EDF33D3A8D1C)
 - [Entendendo o ECMAScript 6](https://www.udemy.com/course/entendendo-o-ecmascript-6/?referralCode=B0B8FDDF642B253E4D64)
